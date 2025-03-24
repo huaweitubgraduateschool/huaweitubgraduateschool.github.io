@@ -13,37 +13,67 @@ technical-streeing-committee:
 research-and-development-Team1:
   - name: Odej Kao
     img: /img/people/odej-kao.jpg
-    desc: TUB Project Coordinator
+    desc: Distributed and Operating Systems
     website: https://www.tu.berlin/dos
 
    
 research-and-development-Team2:
   - name: Stefan Schmid
     img: /img/people/stefan-schmid.jpg
-    desc: TUB Project Coordinator
-    website: https://www.univie.ac.at/ct/stefan/
+    desc: Intelligent Networks
+    website: https://www.tu.berlin/en/eninet/about
 
+research-and-development-Team3:
+  - name: Michel Steuwer
+    img: /img/people/michel_steuwer.jpg
+    desc: Programming Languages
+    website: https://www.tu.berlin/en/compl/about-us/head
+
+research-and-development-Team4:
+  - name: David Bermbach
+    img: /img/people/david_bermbach.jpg
+    desc: Scalable Software Systems
+    website: https://www.tu.berlin/en/3s/about-us/team/prof-dr-ing-david-bermbach
+
+research-and-development-Team5:
+  - name: Guiseppe Caire
+    img: /img/people/caire.jpg
+    desc: Communications and Information Theorys
+    website: https://www.tu.berlin/en/commit
+    
+    
 ---
 
 
-## Graduate School Director
-
-The Huawei-TUB Graduate School
+## Graduate School Directors
 
 {% include list-circles.html items=page.technical-streeing-committee %}
 
 
 ## Research and development
 
-Currently there are two active projects operating in the lab:
+Currently there are five active projects operating in the graduate school:
 
-### P1: AI-enabled Operations for predictable fault tolerance
+### P1: Observability and convergence for fault tolerant LLMs
 
 {% include list-circles.html items=page.research-and-development-Team1 %}
 
-### P2: Network Automation and CDNs
+### P2: Cooperative packet spray, considering mixed-traffic, and link failure recovery technique
 
 {% include list-circles.html items=page.research-and-development-Team2 %}
+
+### P3: DSL for expression of scheduling capability based on XPUs
+
+{% include list-circles.html items=page.research-and-development-Team3 %}
+
+### P4: On deduplication of serverless runtimes across multi-functions
+
+{% include list-circles.html items=page.research-and-development-Team4 %}
+
+### P5: Ultra dense and holographic MIMO analysis
+
+{% include list-circles.html items=page.research-and-development-Team5 %}
+
 
 <!-- ## Members
 
