@@ -11,4 +11,4 @@ title: Events
 
 | Date          | Event                      | Status|
 |:-------------:|:--------------------------:|:-----:|
-| 17.03.2025    | [Graduate School Opening](https://aiopsthirdworkshop.github.io/aiopsthirdworkshop/index.html)                           | finished |
+| 17.03.2025    | [Graduate School Opening]                          | finished |
