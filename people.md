@@ -1,6 +1,6 @@
 ---
 title: Organization
-subtitle: Huawei TUB Innovation Lab Structure
+subtitle: Huawei TUB Graduate School Structure
 technical-streeing-committee:
   - name: Odej Kao
     img: /img/people/odej-kao.jpg
@@ -15,24 +15,20 @@ research-and-development-Team1:
     img: /img/people/odej-kao.jpg
     desc: TUB Project Coordinator
     website: https://www.tu.berlin/dos
-  - name: Götz Brasche
-    img: /img/people/Goetz.jpg
-    desc: Huawei Project Coordinator
+
    
 research-and-development-Team2:
   - name: Stefan Schmid
     img: /img/people/stefan-schmid.jpg
     desc: TUB Project Coordinator
     website: https://www.univie.ac.at/ct/stefan/
-  - name: Stefano Bortoli
-    img: /img/people/Stefano.jpg
-    desc: Huawei Project Coordinator
+
 ---
 
 
-## Executive board
+## Graduate School Director
 
-The Huawei-TUB Innovation Lab for AI-driven Autonomous Operations is headed by:
+The Huawei-TUB Graduate School
 
 {% include list-circles.html items=page.technical-streeing-committee %}
 
