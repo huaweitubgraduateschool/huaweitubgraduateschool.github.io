@@ -1,15 +1,10 @@
 ---
 layout: post
-title: Successful Conclusion of the Third International Workshop AIOPS 2023
-subtitle: collocated with ICDM 2023
+title: Official Opening of the Graduate School
+subtitle: 17. March 2025
 cover-img: /assets/img/path.jpg
 cover-img: /img/news/2020-12-24/back_ground_img.jpeg
 thumbnail-img: /img/news/2020-12-24/background_image.png
-tags: [AIOPS 2023, workshop, ICDM 2023]
----
+tags: [GS Opening]
 
-We held our AIOPs 2023 workshop on 04 December 2023. In the peak, we had 40 participants. It was great that the workshop took place in-person and we manged to reconnect with all the participants with whom in the last 4 years we patiently build a strong relationship in terms of collaboration, achiving the goal and purpose of the events of builidng strong AIOps research community. 
-
-Content-wise we had 9 submissions, 5 accepted papers, 10+ senior PC members from 5+ countries. Industry parthners contributed papers as well. The workshop program was a little bit full, but we still managed to have time for questions and discussions.
-
-All in all, we are very happy with the day, the workshop, the organization, and the outcome. More information here: official webpage of [AIOPS 2023](https://aiopsthirdworkshop.github.io/aiopsthirdworkshop/index.html).
+The graduate school was sucessfully inagurated on March 17, 2025. More than 40 participants from Huawei and TU Berlin, including the TUB Vice President for Research, the President of the Huawei European Research Institute, the President of the Huawei Munich Research Center. The agenda included an introduction to the graduate school organisation and an overview of the planned research. 
