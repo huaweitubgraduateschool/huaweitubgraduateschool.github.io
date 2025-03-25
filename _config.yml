@@ -11,12 +11,10 @@ description: Here goes our mission
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Huawei TUB GS: "JointLab"
   Organization: "people"
   Projects: "projects"
   Publications: "paper"
   Events: "events"
-  Opening: "academicsaloon"
   # Resources:
   #   - DOS group: "https://github.com/dos-group"
   #Author's home: "https://deanattali.com"
