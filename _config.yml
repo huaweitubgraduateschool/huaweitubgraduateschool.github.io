@@ -15,6 +15,7 @@ navbar-links:
   Projects: "projects"
   Publications: "paper"
   Events: "events"
+  Opening: "opening"
   # Resources:
   #   - DOS group: "https://github.com/dos-group"
   #Author's home: "https://deanattali.com"
