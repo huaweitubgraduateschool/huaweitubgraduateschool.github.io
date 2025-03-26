@@ -11,4 +11,5 @@ title: Events
 
 | Date          | Event                      | Status|
 |:-------------:|:--------------------------:|:-----:|
-| 17.03.2025    | Graduate School Opening                          | finished |
+| 17.03.2025    | [Graduate School Opening](https://huaweitubgraduateschool.github.io/opening/) | finished |
+
