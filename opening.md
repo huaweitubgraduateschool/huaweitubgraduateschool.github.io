@@ -1,4 +1,4 @@
 ---
-title: Opening
-subtitle: Opening
+title: Graduate School Opening
+subtitle: Graduate School Opening
 ---
