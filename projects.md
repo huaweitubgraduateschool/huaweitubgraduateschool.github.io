@@ -10,7 +10,6 @@ The goal of this researcj is to develop methods to identify and localize SDCs wh
 
 **Contact:** Anton Altenbernd,  Prof. Dr Odej Kao
 
-**Resources:** 
-* [Presentations](https://tubcloud.tu-berlin.de/s/XiZK3px36tKfGwa?path=%2F03_cloud-map-rca%2Fpresentations)
+**Presentation:**  [Presentations](docs/LLM_kao.pdf)
 
 
