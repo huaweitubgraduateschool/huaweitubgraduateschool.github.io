@@ -11,5 +11,5 @@ The goal of this researcj is to develop methods to identify and localize SDCs wh
 **Contact:** Anton Altenbernd,  Prof. Dr Odej Kao
 
 **Presentation:**  [Research introduction]  ![LLM_Kao](docs/LLM_kao.pdf)
-
+<object data="docs/LLM_kao.pdf" width="1000" height="1000" type='application/pdf'/>
 
