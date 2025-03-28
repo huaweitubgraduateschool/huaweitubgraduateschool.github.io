@@ -33,3 +33,7 @@ While the former method can address certain issues that are actually logged, it 
 **Resources:** 
 * [Presentations](https://tubcloud.tu-berlin.de/s/XiZK3px36tKfGwa?path=%2F01_intelligent-log-analysis%2Fpresentations)
 * [Deliverables](https://tubcloud.tu-berlin.de/s/XiZK3px36tKfGwa?path=%2F01_intelligent-log-analysis%2Fcode)
+
+
+### Minutes of the Management Meetings
+* [Minutes](https://tubcloud.tu-berlin.de/s/XiZK3px36tKfGwa?path=%2F01_intelligent-log-analysis%2Fcode)
