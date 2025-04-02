@@ -22,3 +22,15 @@ The overall goal of this work is to reduce such resource waste. For this, we wil
 **Contact:** Niklas Kowallik, Prof. Dr.-Ing. David Bermbach
 
 **Presentation:** [Research introduction](../docs/Serverless_Bermbach.pdf) 
+
+
+### Analyzing and Optimizing AI Network Traffic Performance and Simulations
+
+With the rapid expansion of AI-driven applications, it requires faster and more efficient networks to handle large amount of data. High performance networking is essential to ensure low-latency and high-throughput communication for AI workloads. However, existing solutions, such as InfiniBand and NVLink, are not only expensive but also rely on specialized hardware. These limitations make them difficult to adopt widely. As AI models continue to grow in size and complexity, there is a growing need for open, efficient, and scalable network solutions for AI inference.
+
+To address this challenge, this research aims to shed light on traffic patterns and conduct simulations to optimize AI networks, e.g., using high-efficiency Ethernet protocol. Unlike current solutions, this approach will provide a more effective, flexible and accessible alternative for a boarder range of users to analyze and improve AI networking performance. By leveraging open-source methodologies, it allows researchers and engineers to explore new networking strategies that enhance both scalability and efficiency in AI inference workloads.
+
+
+**Contact:** Huiran Liu, Prof.Dr. Stefan Schmid
+
+**Presentation:** [Research introduction](../docs/Schmid_intro.pdf) 
