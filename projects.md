@@ -8,7 +8,7 @@ Modern large language models (LLMs) have hundreds of billions (~100Bs) of parame
 
 The goal of this researcj is to develop methods to identify and localize SDCs when training instabilities occur during the training of LLMs, and to develop non-preemptive mitigation strategies that can allow training to continue, possibly in a suboptimal state, while still using the possibly defective chip(s). 
 
-**Contact:** Anton Altenbernd,  Prof. Dr Odej Kao
+**Contact:** Anton Altenbernd,  Prof. Dr. Odej Kao
 
 **Presentation:** [Research introduction](../docs/LLM_kao.pdf) 
 
