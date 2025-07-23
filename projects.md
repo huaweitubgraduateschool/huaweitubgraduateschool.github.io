@@ -34,3 +34,23 @@ To address this challenge, this research aims to shed light on traffic patterns 
 **Contact:** Huiran Liu, Prof.Dr. Stefan Schmid
 
 **Presentation:** [Research introduction](../docs/Schmid_intro.pdf) 
+
+
+
+### Holographic MIMO & Advanced Channel Coding for 6G
+
+As wireless communication evolves toward the sixth generation (6G), a major technological shift is anticipated in the operating frequency bands. Specifically, there is a move from the current 2–3.5 GHz carrier frequency range used in 5G—known as Frequency Range 1 (FR1)—to the higher 7–14 GHz band, referred to as Frequency Range 3 (FR3). This transition enables a substantial increase in antenna density, with projections indicating a 4 to 16 times rise in the number of antennas per array while maintaining the same physical form factor as in 5G systems. However, this dramatic scaling presents a critical challenge: the conventional all-digital baseband processing used in today’s massive MIMO architectures becomes increasingly impractical due to excessive hardware complexity and power consumption. As a result, the development of innovative antenna technologies, particularly those incorporating efficient analog or hybrid RF-domain processing, is essential to realize the performance and energy efficiency targets of 6G systems.
+
+This research activity focuses on two complementary axes: 1) novel massive MIMO schemes based on the concept of holographic antennas; 2) novel channel coding techniques for the multiuser MIMO channel.
+
+1) Holographic MIMO consists of replacing the highly complex and power hungry all-digital processing of all antenna elements as in today's 5G technology with
+analog RF processing directly in the wave domain, exploiting the properties of controllable metasurfaces. In this way, the digital processing is reduced to the minimum necessary information dimension, while the dimensionality expansion to harvest the benefit of antenna gains, and dynamic beam steering/shaping, is implemented bu controlling the electrical properties of
+large-aperture  metasurface antennas. The challenges here are 1) accurate electromagnetic modeling of such metasurfaces including their controls; 2) design of the control algorithms to
+obtain favorable channel conditions in the presence of multipath propagation and multiuser scenarios; 3) accurate complexity and power efficiency analysis; 4) Channel estimation and precoding/detection techniques in the baseband, optimized for the effective channel ``presented'' to the baseband by the RF processing stage.
+
+2) Present state of the art channel coding in multiuser MIMO is based on a) pilot-based channel estimation; b) linear data stream separation; c) single-user decoding; d) concatenation of binary codes (LDPC and Polar Codes) with high-order modulation via the Bit-Interleaved Coded Modulation (BICM) paradigm. In this research thrust we shall explore a novel class of codes named SR-LDPC, obtained by concatenating a non-binary LDPC code with an inner Sparse-Regression (SR) code. These codes have the property that they inherently achieve the shaping gain since their codewords are essentially Gaussian random-line sequences. In addition, the structure of SR-LDPC is amenable for an advanced iterative decoder based on
+Approximated Message Passing (AMP) with non-separable denoising function obtained by the LDPC Belief Propagation (BP) algorithm.
+We shall consider the application fo these codes with a modified (novel, and recently discovered by Prof Caire and his collaborators) AMP-BP decoder for the multiuser MIMO case, that does not require the use of explicit pilots and channel estimation. In this way, the usual system bottleneck given by the number of orthogonal uplink pilots is eliminated.
+Preliminary results indicate that this approach is promising and has the potential of improving upon the present state of the art.
+
+**Contact:** Prof. Dr. Guiseppe Caire
